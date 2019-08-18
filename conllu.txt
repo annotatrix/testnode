@@ -1,4 +1,4 @@
-# text = The quick greebn fox jumps over the lazy bull.
+# text = The quick greebn fox jumps over the lazy horse.
 1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 2	quick	quick	ADJ	JJ	Degree=Pos	4	amod	_	_
 3	brown	brown	ADJ	JJ	Degree=Pos	4	amod	_	_
